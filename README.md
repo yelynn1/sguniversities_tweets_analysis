@@ -3,7 +3,7 @@
 #### This is a group project for H6751 Text and Web Mining 
 ## Files uploaded to GitHub
 #### program05.ipny – code to train algorithm, extract tweets, classify tweets and analysis
-#### group05.pdf - Project report
+#### report05.pdf - Project report
 #### presentation05.mp4 - Presentation of the project
 #### Sentiment140.csv – training dataset from Kaggle
 #### Test.csv – preprocessed Kaggle test data using train_test_split(test_size = 0.2)
