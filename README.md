@@ -4,7 +4,8 @@
 ## Files uploaded to GitHub
 #### program05.ipny – code to train algorithm, extract tweets, classify tweets and analysis
 #### report05.pdf - Project report
-#### presentation05.mp4 - Presentation of the project
+#### presentation05.pptx - Powerpoint file of Presentation
+#### presentation05.mp4 - Presentation of the project with narration
 #### Sentiment140.csv – training dataset from Kaggle
 #### Test.csv – preprocessed Kaggle test data using train_test_split(test_size = 0.2)
 #### train.csv – preprocessed Kaggle train data using train_test_split(test_size = 0.2)
